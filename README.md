@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
