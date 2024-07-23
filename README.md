@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |
