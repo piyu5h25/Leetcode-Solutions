@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
