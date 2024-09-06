@@ -11,5 +11,15 @@ public:
     void deleteNode(ListNode* node) {
       node -> val = node -> next ->val;
       node -> next = node -> next -> next;  
+
+    // ListNode* temp=node;
+    // ListNode* front=node->next;
+    // temp->next=nullptr;
+    // free(temp);
+    // node=front;
+    // delete(front);
+
+
+
     }
 };
