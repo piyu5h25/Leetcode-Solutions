@@ -1,47 +1,32 @@
 class Solution {
 public:
-     
-
-
     int tupleSameProduct(vector<int>& nums) {
         int n = nums.size();
-    unordered_multimap<int , pair<int ,int>> hash;
 
-    for(int i=0;i<n-1;i++){
+        unordered_map<int, int> hash;
 
-        for(int j=i+1;j<n;j++){
+        for (int i = 0; i < n - 1; i++) {
 
-            hash.insert({ nums[i]*nums[j] , {nums[i] , nums[j]} });
+            for (int j = i + 1; j < n; j++) {
+                int product = nums[i] * nums[j];
 
-
+                if (hash.find(product) != hash.end()) {
+                    hash[product]++;
+                } else {
+                    hash[product] = 1;
+                }
+            }
         }
-    }
-   
-   unordered_map<int ,int> seen;
 
-   for(auto it : hash){
-      
-      if(it.first != seen.empty()){
-        seen[it.first]++;
-      } 
-      else{
-        seen[it.first] = 1;
-      }
+        int ans = 0;
 
-}
-    
-    int ans =0;
+        for (auto kt : hash) {
+            int cnt = kt.second;
 
-    for(auto kt : seen){
-        int cnt = kt.second;
+            if (cnt > 1)
+                ans += cnt * (cnt - 1);
+        }
 
-        if(cnt>1) ans += cnt*(cnt -1);
-    }
-
- 
-
-   return ans*4;
-       
-
+        return ans * 4;
     }
 };
