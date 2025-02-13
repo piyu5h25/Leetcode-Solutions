@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
