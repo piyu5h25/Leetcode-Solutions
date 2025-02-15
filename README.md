@@ -118,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
