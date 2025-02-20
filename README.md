@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 ## Matrix
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
