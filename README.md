@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -90,22 +91,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -140,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
