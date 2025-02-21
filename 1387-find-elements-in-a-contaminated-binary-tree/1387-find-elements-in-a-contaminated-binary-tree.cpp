@@ -11,40 +11,36 @@
  */
 class FindElements {
 private:
-    unordered_map<int,int>mpp;
-    void preorder(TreeNode* root){
-            mpp[root->val]++;
+    unordered_set<int>values;
+    void preorder(TreeNode* root, int value){
+            
         if(!root){
             return;
         }
+        root->val = value;
+        values.insert(value);
         if(root->left){
-            root->left->val = 2* root->val +1;
-            preorder(root->left);
+            
+            preorder(root->left,2*value +1);
         }
         if(root->right){
-            root->right->val = 2* root->val +2;
-            preorder(root->right);
+            
+            preorder(root->right, 2*value + 2);
         }
     }
 public:
     FindElements(TreeNode* root) {
         
-       if(root){
-        root->val = 0;
-        preorder(root);
-       }
+       
+        preorder(root,0);
+       
        
 
 
     }
     
     bool find(int target) {
-        for(auto it: mpp){
-            if(mpp.find(target)!=mpp.end()){
-                return true;
-            }
-        }
-        return false;
+    return values.count(target);
     }
 };
 
