@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Counting
 |  |
 | ------- |
