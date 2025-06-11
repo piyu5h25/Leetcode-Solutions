@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
