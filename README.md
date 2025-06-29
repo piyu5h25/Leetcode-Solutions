@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1170-shortest-common-supersequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Design
 |  |
