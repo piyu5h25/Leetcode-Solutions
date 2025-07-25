@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2155-find-missing-observations](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
