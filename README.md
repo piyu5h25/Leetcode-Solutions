@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0983-validate-stack-sequences](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
