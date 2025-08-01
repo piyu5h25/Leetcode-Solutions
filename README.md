@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [2155-find-missing-observations](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
