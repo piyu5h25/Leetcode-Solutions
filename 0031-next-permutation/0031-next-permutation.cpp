@@ -19,15 +19,15 @@ public:
         if (pivotidx == -1) {
             reverse(nums.begin(), nums.end());
             return;
-        }else{
-            for(int i=n-1;i>=0;i--){
-                if(nums[pivotidx] < nums[i]){
-                  swap(nums[pivotidx], nums[i]);
-                  break;
-                }
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            if (nums[pivotidx] < nums[i]) {
+                swap(nums[pivotidx], nums[i]);
+                break;
             }
         }
 
-        reverse(nums.begin() + pivotidx+1, nums.end());
+        reverse(nums.begin() + pivotidx + 1, nums.end());
     }
 };
