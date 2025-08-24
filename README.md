@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
