@@ -5,15 +5,22 @@ public:
         if(n==1){
             return;
         }
-        for(int i=0; i<n; i++){
-            bool swapNeeded = false;    
-            for(int j=0; j<n-1; j++){
-                if(arr[j]>arr[j+1]){
-                    swap(arr[j], arr[j+1]);
-                    swapNeeded = true;
-                }
+        int l = 0, mid = 0, r = n-1;
+        while(mid<=r){
+            if(arr[mid]==0){
+                swap(arr[l], arr[mid]);
+                l++;
+                mid++;
             }
-            if(swapNeeded == false)break;
+            else if(arr[mid]==1){
+                mid++;
+            }
+            else{
+                swap(arr[mid], arr[r]);
+                r--;
+            }
+
         }
+        return;
     }
 };
