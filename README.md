@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0165-compare-version-numbers](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0210-course-schedule-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0684-redundant-connection) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Design
