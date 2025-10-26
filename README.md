@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
