@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
