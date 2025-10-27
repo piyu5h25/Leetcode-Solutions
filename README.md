@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search Tree
 |  |
