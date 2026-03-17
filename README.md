@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
