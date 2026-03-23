@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1170-shortest-common-supersequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyu5h25/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
